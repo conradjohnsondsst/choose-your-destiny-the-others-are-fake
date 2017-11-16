@@ -1,0 +1,101 @@
+nav {
+  display: flex;
+  flex-direction: column;
+  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+  align-content: center;
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+body {
+  text-align: center;
+}
+
+.bryce {
+  transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+}
+
+footer {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  border: solid 2px #000;
+  background-color: black;
+  color: #999;
+  height: 50px;
+  font-size: 20px;
+}
+
+.forestpicture {
+  background-image: url(https://static.pexels.com/photos/158251/forest-the-sun-morning-tucholskie-158251.jpeg);
+  border: solid 1px #000;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.main {
+  color: white;
+  margin: 0px;
+}
+
+.intro {
+  font-size: 30px;
+}
+
+.maintitle {
+  font-size: 40px;
+}
+
+.leftdead {
+  font-size: 50px;
+  background-color: red;
+  margin: 0px;
+}
+
+.paragraphbear {
+  font-size: 40px;
+  color: white;
+}
+
+.bear {
+  margin: 0px;
+}
+
+.runaway {
+  background-color: red;
+  margin: 0px;
+}
+
+.paragraphcannibals {
+  font-size: 35px;
+  color: white;
+}
+
+.cannibals {
+  margin: 0px;
+}
+
+.terribleperson {
+  font-size: 40px;
+  color: white;
+}
+
+.strict {
+  margin-top: 20px;
+}
+
+.final {
+  margin: 0px;
+}
+
+.cannibalseat {
+  margin-top: 20px;
+}
